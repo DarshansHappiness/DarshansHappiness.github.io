@@ -1,0 +1,43 @@
+body {
+    background: turquoise; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pics {
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.pic {
+    width:30%;
+    padding:10px;
+    margin:10px;
+    margin-bottom: 30px;
+    background: palegoldenrod;
+    border-radius:5px;
+    box-shadow: 5px 10px gold;
+}
+
+.pic img {
+    width:560px;
+    padding:2px;
+    border: 2px solid turquoise;
+   
+    border-radius:2px;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align:center;
+}
+
+a {
+    text-decoration: none;
+    color: turquoise;
+    font
+}
+
+.pic a:hover{
+    color: black;
+}
