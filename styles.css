@@ -9,7 +9,7 @@ body {
 }
 
 .pic {
-    width:30%;
+    width:20%;
     padding:10px;
     margin:10px;
     margin-bottom: 30px;
@@ -19,7 +19,7 @@ body {
 }
 
 .pics img {
-    width:500px;
+    width:275px;
     padding:2px;
     border: 2px solid turquoise;
    
